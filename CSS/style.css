@@ -1,0 +1,36 @@
+*{
+  padding: 0;
+  margin: 0;
+  background-color: #f0f0f1;
+  box-sizing: border-box;
+  font-family: 'Lato';
+}
+input[type=text]{
+  width: 100%;
+  padding: 4px;
+  margin-bottom: 10px;
+  border: 1px solid grey;
+  background-color: white;
+}
+input[type=password]{
+  width: 100%;
+  padding: 4px;
+  margin-bottom: 10px;
+  border: 1px solid grey;
+  background-color: white;
+}
+input[type=submit]{
+  width: 100%;
+  padding: 5px;
+  margin-bottom: 10px;
+  background-color: #c500ff;
+  color: white;
+  border: 1px solid #c500ff;
+}
+::placeholder{
+  color:grey;
+}
+#forgot{
+  color:grey;
+  text-decoration: none;
+}
