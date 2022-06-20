@@ -12,3 +12,4 @@ File | Description
 [dashboard.php](./dashboard.php) | Contains the admin dashboard
 [contact.php](./contact.php) | contains the contact messages received
 [style.css](./style.css) | contains the styling codes
+[reply.php](./reply.php) | contains the replies of the messages received
