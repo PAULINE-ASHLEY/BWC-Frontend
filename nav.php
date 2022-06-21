@@ -44,15 +44,13 @@
   outline: none;
 }
 a:hover{
-  background-color:#c500ff;
-  border-radius: 50px;
+  color:#c500ff;
 }
 .image:hover{
   background-color: white;
 }
 button:hover{
-  background-color: #c500ff;
-  border-radius: 50px;
+  color: #c500ff;
 }
 i:hover{
   background-color:#c500ff;
