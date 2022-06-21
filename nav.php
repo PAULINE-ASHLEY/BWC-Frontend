@@ -53,7 +53,7 @@ button:hover{
   color: #c500ff;
 }
 i:hover{
-  background-color:#c500ff;
+  color:#c500ff;
 }
 .dropdown-container {
   display: none;
