@@ -2,7 +2,7 @@
 <html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">
-    <title>Black Woman Can - Contact Us</title>
+    <title>Black Woman Can</title>
     <link rel="icon" type="image/logo.png" href="images/logo.png">
     <link rel="stylesheet" href="CSS/style.css">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -32,7 +32,7 @@
           <table>
             <tr>
               <td>
-              <a href="reply.php" style="text-decoration:none;color:black">Olagoke Elizabeth</a>
+              <a href="medicalpractitionerreply.php" style="text-decoration:none;color:black">Olagoke Elizabeth</a>
             </td>
               <td>
                 <p style="background-color:white;text-align:right">
@@ -44,7 +44,7 @@
             </tr>
             <tr>
               <td>
-                <a href="reply.php" style="text-decoration:none;color:black">Olagoke Elizabeth</a>
+                <a href="medicalpractitionerreply.php" style="text-decoration:none;color:black">Olagoke Elizabeth</a>
               </td>
               <td>
                 <p style="background-color:white;text-align:right">
@@ -56,7 +56,7 @@
             </tr>
             <tr>
               <td>
-                <a href="reply.php" style="text-decoration:none;color:black">Olagoke Elizabeth</a>
+                <a href="medicalpractitionerreply.php" style="text-decoration:none;color:black">Olagoke Elizabeth</a>
               </td>
               <td>
                 <p style="background-color:white;text-align:right">
@@ -68,7 +68,7 @@
             </tr>
             <tr>
               <td>
-                <a href="reply.php" style="text-decoration:none;color:black">Olagoke Elizabeth</a>
+                <a href="medicalpractitionerreply.php" style="text-decoration:none;color:black">Olagoke Elizabeth</a>
               </td>
               <td>
                 <p style="background-color:white;text-align:right">
@@ -80,7 +80,7 @@
             </tr>
             <tr>
               <td>
-                <a href="reply.php" style="text-decoration:none;color:black">Olagoke Elizabeth</a>
+                <a href="medicalpractitionerreply.php" style="text-decoration:none;color:black">Olagoke Elizabeth</a>
               </td>
               <td>
                 <p style="background-color:white;text-align:right">
@@ -92,7 +92,7 @@
             </tr>
             <tr>
               <td>
-                <a href="reply.php" style="text-decoration:none;color:black">Olagoke Elizabeth</a>
+                <a href="medicalpractitionerreply.php" style="text-decoration:none;color:black">Olagoke Elizabeth</a>
               </td>
               <td>
                 <p style="background-color:white;text-align:right">
@@ -104,7 +104,7 @@
             </tr>
             <tr>
               <td>
-                <a href="reply.php" style="text-decoration:none;color:black">Olagoke Elizabeth</a>
+                <a href="medicalpractitionerreply.php" style="text-decoration:none;color:black">Olagoke Elizabeth</a>
               </td>
               <td>
                 <p style="background-color:white;text-align:right">
@@ -116,7 +116,7 @@
             </tr>
             <tr>
               <td>
-                <a href="reply.php" style="text-decoration:none;color:black">Olagoke Elizabeth</a>
+                <a href="medicalpractitionerreply.php" style="text-decoration:none;color:black">Olagoke Elizabeth</a>
               </td>
               <td>
                 <p style="background-color:white;text-align:right">

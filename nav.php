@@ -97,25 +97,25 @@ td {
       <i class="fa fa-angle-down" style="color:#c500ff"></i>
     </button>
     <div class="dropdown-container" style="color:white">
-      <a href="#"><i class="fa fa-circle icon" style="font-size:12px;color:#c500ff"></i> Become a Member</a>
-      <a href="#"><i class="fa fa-circle" style="font-size:12px;color:#c500ff"></i> Partner with Us</a>
+      <a href="BecomeaMember.php"><i class="fa fa-circle icon" style="font-size:12px;color:#c500ff"></i> Become a Member</a>
+      <a href="partnerwithus.php"><i class="fa fa-circle" style="font-size:12px;color:#c500ff"></i> Partner with Us</a>
       <!--volunteer dropdown-->
         <button class="dropdown-btn" syle="background-color:white">Volunteer
           <i class="fa fa-angle-down" style="color:#c500ff"></i>
         </button>
         <div class="dropdown-container" style="color:white">
-          <a href="#"><i class="fa fa-circle" style="font-size:12px;color:#c500ff"></i> Show Host</a>
-          <a href="#"><i class="fa fa-circle" style="font-size:12px;color:#c500ff"></i> Guest Speaker</a>
-          <a href="#"><i class="fa fa-circle" style="font-size:12px;color:#c500ff"></i> Content Creator</a>
-          <a href="#"><i class="fa fa-circle" style="font-size:12px;color:#c500ff"></i> Graphic Designer</a>
-          <a href="#"><i class="fa fa-circle" style="font-size:12px;color:#c500ff"></i> Live Coach</a>
-          <a href="#"><i class="fa fa-circle" style="font-size:12px;color:#c500ff"></i> Business Educator</a>
-          <a href="#"><i class="fa fa-circle" style="font-size:12px;color:#c500ff"></i> Medical Practitioner</a>
-          <a href="#"><i class="fa fa-circle" style="font-size:12px;color:#c500ff"></i> Legal Aid</a>
-          <a href="#"><i class="fa fa-circle" style="font-size:12px;color:#c500ff"></i> Counsellor</a>
-          <a href="#"><i class="fa fa-circle" style="font-size:12px;color:#c500ff"></i> Others</a>
+          <a href="showhost.php"><i class="fa fa-circle" style="font-size:12px;color:#c500ff"></i> Show Host</a>
+          <a href="guestspeaker.php"><i class="fa fa-circle" style="font-size:12px;color:#c500ff"></i> Guest Speaker</a>
+          <a href="contentcreator.php"><i class="fa fa-circle" style="font-size:12px;color:#c500ff"></i> Content Creator</a>
+          <a href="graphicdesigner.php"><i class="fa fa-circle" style="font-size:12px;color:#c500ff"></i> Graphic Designer</a>
+          <a href="livecoach.php"><i class="fa fa-circle" style="font-size:12px;color:#c500ff"></i> Live Coach</a>
+          <a href="businesseducator.php"><i class="fa fa-circle" style="font-size:12px;color:#c500ff"></i> Business Educator</a>
+          <a href="medicalpractitioner.php"><i class="fa fa-circle" style="font-size:12px;color:#c500ff"></i> Medical Practitioner</a>
+          <a href="legalaid.php"><i class="fa fa-circle" style="font-size:12px;color:#c500ff"></i> Legal Aid</a>
+          <a href="counsellor.php"><i class="fa fa-circle" style="font-size:12px;color:#c500ff"></i> Counsellor</a>
+          <a href="others.php"><i class="fa fa-circle" style="font-size:12px;color:#c500ff"></i> Others</a>
         </div>
-      <a href="#"><i class="fa fa-circle" style="font-size:12px;color:#c500ff"></i> Donate</a>
+      <a href="donate.php"><i class="fa fa-circle" style="font-size:12px;color:#c500ff"></i> Donate</a>
 
     </div>
     <!--share experience dropdown-->
@@ -123,8 +123,8 @@ td {
         <i class="fa fa-angle-down" style="color:#c500ff"></i>
       </button>
       <div class="dropdown-container" style="color:white">
-        <a href="#"><i class="fa fa-circle" style="font-size:12px;color:#c500ff"></i> Articles</a>
-        <a href="#"><i class="fa fa-circle" style="font-size:12px;color:#c500ff"></i> Videos</a>
+        <a href="article.php"><i class="fa fa-circle" style="font-size:12px;color:#c500ff"></i> Articles</a>
+        <a href="video.php"><i class="fa fa-circle" style="font-size:12px;color:#c500ff"></i> Videos</a>
       </div>
   </div>
 
