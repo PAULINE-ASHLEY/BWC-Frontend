@@ -1,5 +1,5 @@
 # BLACK WOMAN CAN ADMIN DASHBOARD
-![BWC-logo](https://github.com/kwamboka1/BWC-Frontend/blob/master/bwc.jpeg)
+![BWC-logo](https://github.com/kwamboka1/BWC-Frontend/blob/master/mages/bwc.jpeg)
   Black Woman Can project is tailored to provide a platform for Black Women 
   around the world to showcase and celebrate their achievements,Nurture and 
   mentor young Black girls to become more confident in themselves and become 
