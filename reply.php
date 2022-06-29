@@ -40,16 +40,39 @@
           Details: Sir, I saw your profile on linkedin app and I was facinated. <br>
           I want to volunteer for BWC program.
           </p>
-          <form class="#" action="#" method="#">
-            <p style="padding-left:60px;background-color:black;color:white;padding-top:130px">
-             <input type="submit" value="Reply" style="width:20%">
-           </p>
-          </form>
+<!--================ reply form popup ==============-->
+                  <button class="open-button" onclick="openForm()">Reply</button>
+
+                  <div class="reply-popup" id="myForm">
+                  <form action="/action_page.php" class="form-container">
+                  <h3>Reply</h3>
+
+                  <label for="msg"><b>Message</b></label>
+                  <textarea placeholder="Type message.." name="msg" required></textarea>
+
+                  <button type="submit" class="btn">reply</button>
+                  <button type="button" class="btn cancel" onclick="closeForm()">Close</button>
+                  </form>
+                  </div>
+<!--========== end of reply form popup =============-->
+            
         </div>
 
         </div>
       </div>
     </div>
+<!--========= A script for the popup form  =========-->
+        <script>
+          function openForm() {
+            document.getElementById("myForm").style.display = "block";
+          }
+
+          function closeForm() {
+            document.getElementById("myForm").style.display = "none";
+          }
+        </script>
+<!--============= end of script popup form =========-->
+ 
 
   </body>
 </html>
