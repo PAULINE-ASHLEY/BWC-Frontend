@@ -20,7 +20,6 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
   </head>
   <body>
-
     <div class="container-fluid">
       <div class="row">
           <div class="col-12 col-sm-12 col-md-2 col-lg-2 col-xl-2 col-xxl-2">
@@ -44,16 +43,39 @@
           </p>
           <p style="padding-left:60px;font-size:20px;background-color:black;color:white">Attach a CV:</p>
           <p style="padding-left:60px;font-size:20px;background-color:black;color:white">Headshot:</p>
-          <form class="#" action="#" method="#">
-            <p style="padding-left:60px;background-color:black;color:white">
-             <input type="submit" value="Reply" style="width:20%">
-           </p>
-          </form>
+<!--================ reply form popup ==============-->
+                  <button class="open-button" onclick="openForm()">Reply</button>
+
+                  <div class="reply-popup" id="myForm">
+                  <form action="/action_page.php" class="form-container">
+                  <h3>Reply</h3>
+
+                  <label for="msg"><b>Message</b></label>
+                  <textarea placeholder="Type message.." name="msg" required></textarea>
+
+                  <button type="submit" class="btn">reply</button>
+                  <button type="button" class="btn cancel" onclick="closeForm()">Close</button>
+                  </form>
+                  </div>
+<!--========== end of reply form popup =============-->
+            
         </div>
 
         </div>
       </div>
     </div>
+<!--========= A script for the popup form  =========-->
+        <script>
+          function openForm() {
+            document.getElementById("myForm").style.display = "block";
+          }
+
+          function closeForm() {
+            document.getElementById("myForm").style.display = "none";
+          }
+        </script>
+<!--============= end of script popup form =========-->
+    
 
   </body>
 </html>
